@@ -20,7 +20,7 @@ export default function Home() {
         <div>Bonjour les amis </div>
         <div>Bonjour les amis </div>
         <div>Bonjour les amis </div>
-        <div>Bonjour les amis du BTS</div>
+        <div>Bonjour les amis </div>
         <div>Bonjour les amis </div>
         <div>Bonjour les amis </div>
       </div>
